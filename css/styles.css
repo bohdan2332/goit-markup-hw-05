@@ -948,6 +948,12 @@ border-radius: 4px;
     transform: translateY(0%)
 }
 
+.deep-cover-wrap {
+
+    position: relative; 
+    overflow: hidden;
+}
+
 .deep-subject-cover-text{
   position: absolute;
   top: 0;
@@ -963,11 +969,6 @@ border-radius: 4px;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
 
-.deep-cover-wrap {
-
-    position: relative; 
-    overflow: hidden;
-}
 
 .deep-container {
 
