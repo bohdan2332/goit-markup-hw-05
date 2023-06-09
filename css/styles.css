@@ -1006,16 +1006,14 @@ border-radius: 4px;
 .modal-close:hover{
     background-color: #404bbf;
     border: none;
-
+    fill: #ffffff;
 }
-
-
 
 
 .modal-close:focus {
     background-color: #404bbf;
     border: none;
-
+    fill: #ffffff;
 }
 
 
@@ -1024,17 +1022,6 @@ border-radius: 4px;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
-
-.model-close-icon:hover {
-
-    fill: #ffffff
-}
-
-.model-close-icon:focus {
-
-    fill: #ffffff
-}
-
 
 
 
